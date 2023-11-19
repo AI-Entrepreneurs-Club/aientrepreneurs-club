@@ -1,3 +1,5 @@
+# Changelog
+
 If you make any significant changes it's usually a good idea to note it here, linking to the new or edited files. Add your changes just below the horizontal line using the following format:
 
 * date
@@ -16,4 +18,4 @@ If you make any significant changes it's usually a good idea to note it here, li
 		* created my profile page: [[mathew lowry]] as an example for discussion
 		* created my project page  [[project myhub]] as an example for discussion
 		* created [[group purpose]] for discussion within the 'about' directory
-		* discuss this on mattermost 
+		* let's discuss this on mattermost 
