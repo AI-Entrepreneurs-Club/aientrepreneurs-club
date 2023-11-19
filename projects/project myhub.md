@@ -1,9 +1,9 @@
 # Project: MyHub.ai
 
-This is a [[projects]] file.
-Founder: [[mathew lowry]]
-Where: [myhub.ai](https://myhub.ai/)
-Good example: https://myhub.ai/@mathewlowry/
+* This is a [[projects]] file.
+* Founder: [[mathew lowry]]
+* Where: [myhub.ai](https://myhub.ai/)
+* Good example: https://myhub.ai/@mathewlowry/
 ## Today at a glance
 
 * A Hub provides each Hub Editor with a central place on the web which combines:

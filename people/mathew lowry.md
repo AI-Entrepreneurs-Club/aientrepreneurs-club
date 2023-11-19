@@ -1,13 +1,12 @@
 # Mathew Lowry
 
-This is a [[people]] file. 
-It's a first draft, provided to illustrate an approach for discussion with the group.
-## About me
+## About 
 
-Information architect, communication strategist, etc etc. 
-More into, follow, subscribe, contact: <https://myhub.ai/@mathewlowry/about/>
+* This is a [[people]] file. It's a first draft, provided to illustrate an approach for discussion with the group.
+* I'm an Information architect, communication strategist, etc etc. 
+* More info, follow, subscribe, contact: <https://myhub.ai/@mathewlowry/about/>
 
-## Projects
+## My projects
 
 * [[project myhub]]
 * [[pathshiftpeople]] with [[peter kaminski]] and [[wendy elford]]
