@@ -33,6 +33,6 @@ Ideally the directory would be some form of airtable, but before we can define t
 
 Each group will, of course, organise itself as they see fit, using whatever tools they choose. But I can't help wondering whether it would be possible to use AI to help organise this space to help people find the right *individual conversations*. 
 
-One off the cuff idea from our meeting was that participating groups (some sort of voluntary federation model?) would use AI to summarise transcripts of their meetings, which could be dumped in some shared repository where they can be searched and browsed.
+One off the cuff idea from our meeting was that participating groups (some sort of voluntary federation model?) would use AI to summarise transcripts of their meetings, which could be dumped in some shared repository where they can be searched and browsed. 
 
 
