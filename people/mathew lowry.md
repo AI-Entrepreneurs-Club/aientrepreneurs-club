@@ -12,5 +12,8 @@ More into, follow, subscribe, contact: <https://myhub.ai/@mathewlowry/about/>
 * [[project myhub]]
 * [[pathshiftpeople]] with [[peter kaminski]] and [[wendy elford]]
 
+## Groups I'm active in
+
+* AI entrepreneurs
 
 
