@@ -9,12 +9,14 @@ If you make any significant changes it's usually a good idea to note it here, li
 		* changed
 
 ---
+* 2023-11-22
+	* [[marc-antoine parent]] added his own profile page and three projects: [[ClaimMiner]], [[SenseCraft]] and [[HyperKnowledge]]
 
 * 2023-11-18
 	* [[mathew lowry]] suggested some ideas for following up on our meeting
-		* created [[changelog]] inside the "mgt" folder, 
+		* created [[changelog]] inside the "mgt" folder,
 		* created the file [[meeting 2023-11-16]] within the mgt/meetings folder by copying the hackmd file from our meeting
 		* created my profile page: [[mathew lowry]] as an example for discussion
 		* created my project page  [[project myhub]] as an example for discussion
 		* created [[group purpose]] for discussion within the 'about' directory
-		* let's discuss this on mattermost 
+		* let's discuss this on mattermost
