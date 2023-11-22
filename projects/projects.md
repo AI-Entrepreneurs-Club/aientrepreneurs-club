@@ -8,7 +8,10 @@ This file lists project files alphabetically. If you add a project file, add a l
 
 ---
 
-* [[project myhub]]
-* [[free jerrys brain]]
+* [[ClaimMiner]]
 * [[climate web]]
+* [[free jerrys brain]]
+* [[HyperKnowledge]]
+* [[myhub]]
+* [[SenseCraft]]
 * add yours here
