@@ -23,6 +23,6 @@ Instead of bullet lists, use plain lines, with two space characters added to the
 
 [Recent Changes](/recent-pages.html)
 
-[[people]]
+[People](/people/people)
 
-[[projects]]
+[Projects](/projects/projects)
