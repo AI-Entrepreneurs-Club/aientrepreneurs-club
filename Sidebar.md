@@ -14,6 +14,10 @@ Instead of bullet lists, use plain lines, with two space characters added to the
 
 [[changelog]]
 
+[People](/people/people)
+
+[Projects](/projects/projects)
+
 ## General Navigation
 
 
@@ -22,7 +26,3 @@ Instead of bullet lists, use plain lines, with two space characters added to the
 [All Pages](/all-pages.html)
 
 [Recent Changes](/recent-pages.html)
-
-[People](/people/people)
-
-[Projects](/projects/projects)
