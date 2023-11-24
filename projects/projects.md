@@ -13,5 +13,6 @@ This file lists project files alphabetically. If you add a project file, add a l
 * [[free jerrys brain]]
 * [[HyperKnowledge]]
 * [[myhub]]
+* [[OpenSherlock]]
 * [[SenseCraft]]
 * add yours here
