@@ -10,13 +10,14 @@ Instead of bullet lists, use plain lines, with two space characters added to the
 -->
 #
 
-[[README|Home]]  
+[[README|Home]]
 
 [[changelog]]
 
 ## General Navigation
 
-[Search](/search.html)  
-[All Pages](/all-pages.html)  
-[Recent Changes](/recent-pages.html)  
-
+[Search](/search.html)
+[All Pages](/all-pages.html)
+[Recent Changes](/recent-pages.html)
+[[Poeple]]
+[[Projects]]
