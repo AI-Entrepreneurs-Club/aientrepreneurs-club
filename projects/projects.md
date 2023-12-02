@@ -12,7 +12,7 @@ This file lists project files alphabetically. If you add a project file, add a l
 * [[climate web]]
 * [[free jerrys brain]]
 * [[HyperKnowledge]]
-* [[myhub]]
+* [[project myhub]]
 * [[OpenSherlock]]
 * [[SenseCraft]]
 * add yours here
