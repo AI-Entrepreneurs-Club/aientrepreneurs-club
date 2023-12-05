@@ -9,6 +9,8 @@ If you make any significant changes it's usually a good idea to note it here, li
 		* changed
 
 ---
+* 2023-12-05
+	* [[Peter Kaminski]] added [[AI Entrepreneurship, 2023-11-30]] (the hackmd notes)
 * 2023-11-22
 	* [[marc-antoine parent]] added his own profile page and three projects: [[ClaimMiner]], [[SenseCraft]] and [[HyperKnowledge]]
 
