@@ -6,4 +6,4 @@ The Club is a place to get support (business and emotional!), swap haves/needs, 
 
 This website is a combination of front door/calling card, and a bit of a knowledgebase.
 
-If you're interested in participating, email [Peter Kaminski](mailto:kaminski@istori.com).
+If you're interested in participating, email [Peter Kaminski](mailto:kaminski@istori.com?subject=AIEntrepreneursClub).
