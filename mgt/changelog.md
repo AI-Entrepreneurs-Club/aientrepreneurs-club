@@ -9,6 +9,8 @@ If you make any significant changes it's usually a good idea to note it here, li
 		* changed
 
 ---
+* 2024-01-09
+  * [[marc-antoine parent]] added an overview of tools functionality and who the clients would be: [[maparent_bm]]
 * 2023-12-05
 	* [[Peter Kaminski]] added [[AI Entrepreneurship, 2023-11-30]] (the hackmd notes)
 * 2023-11-22
